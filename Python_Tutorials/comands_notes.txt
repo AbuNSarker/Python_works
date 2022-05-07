@@ -1,0 +1,15 @@
+
+- Create a vertual enveronment:   
+	$ python -m venv .venv
+
+- For activate the vertual enveronment: 
+	$source .venv/Scripts/activate
+
+- For dectivate the vertual enveronment: 
+	$source .venv/Scripts/activate
+
+- We can instal packages as usual, e.g., 
+	$pip install numpy
+
+- To keep track of what is installed: 
+	$pip freeze > requirements.txt
