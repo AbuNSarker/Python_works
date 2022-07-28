@@ -1,0 +1,15 @@
+Steps to create virtual environment:
+
+1. go to folder containing project
+2. python -m venv .vevn_name
+3. source .vevn_name/Scripts/activate
+4. now you will be able to see (env_name) infront of the each terminal line
+
+Now you can install required libraries in virtual environment
+
+1. pip3 install -r requirement.txt
+2. if needed restart code editor
+
+To stop working in virtual environment type: deactivate
+
+To remove virtual environment type: rm -rf evn_name
